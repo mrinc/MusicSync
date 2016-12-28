@@ -8,8 +8,10 @@ Google Play Music (GoogleMusic)
 Valid and active GoogleMusic account
 
 # How to use
+Open CMD in the `src/` dir
+
 run `npm install`
 
 edit `config.js` with your info
 
-run `npm app.js` to sync
+run `node app.js` to sync
