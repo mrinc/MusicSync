@@ -9,5 +9,7 @@ Valid and active GoogleMusic account
 
 # How to use
 run `npm install`
+
 edit `config.js` with your info
+
 run `npm app.js` to sync
